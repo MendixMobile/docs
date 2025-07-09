@@ -8,6 +8,18 @@ description: "These release notes showcase each release of the iOS and Android M
 
 Depending on the Mendix version your app is developed in and the device you want to run on, you need a different Make It Native app. For more information on how to download the correct version, see the [Getting the Make It Native App](/refguide/mobile/getting-started-with-mobile/prerequisites/#get-min-app) section in *Native App Prerequisites and Troubleshooting*.
 
+## 5.5.5
+
+**Release date: Jul 9, 2025**
+
+### Changed
+
+-   Test
+
+## BREAKING CHANGE
+
+-  BREAKING CHANGE
+
 ## Android 5.0.2 / iOS 5.0.2
 
 **Release date: July 2, 2025**
