@@ -5,6 +5,14 @@ weight: 8
 description: "Native Template 17"
 ---
 
+## 18.0.1
+
+**Release date: Apr 8, 2026**
+
+- We updated `.gitignore` to more precisely exclude `node_modules` directories in specific locations.
+- We added a new dependency for `@shopify/flash-list` to support the migration from FlatList to FlashList.
+- Fix the iOS builds crashing when building with Xcode 26.
+
 ## 17.0.2 {#1702}
 
 **Release date: January 12, 2026**
