@@ -5,6 +5,12 @@ weight: 8
 description: "Native Template 17"
 ---
 
+## 19.0.1
+
+**Release date: Apr 22, 2026**
+
+- We fixed an iOS build issue introduced by the React Native `0.83.4` upgrade by removing the incorrect `override` keyword from AppDelegate application lifecycle methods.
+
 ## 17.0.2 {#1702}
 
 **Release date: January 12, 2026**
