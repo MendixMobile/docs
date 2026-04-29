@@ -5,6 +5,12 @@ weight: 8
 description: "Native Template 17"
 ---
 
+## 19.0.3
+
+**Release date: Apr 29, 2026**
+
+- We updated `mendix-native` to v0.4.1, strengthening Android cookie encryption by migrating from `AES/CBC/PKCS7Padding` to `AES/GCM/NoPadding`.
+
 ## 17.0.2 {#1702}
 
 **Release date: January 12, 2026**
