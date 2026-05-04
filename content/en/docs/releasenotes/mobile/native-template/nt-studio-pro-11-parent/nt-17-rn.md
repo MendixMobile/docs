@@ -5,6 +5,12 @@ weight: 8
 description: "Native Template 17"
 ---
 
+## 19.0.4
+
+**Release date: May 4, 2026**
+
+- We updated vulnerable `okhttp`, `jackson`, and `security-crypto` dependencies.
+
 ## 17.0.2 {#1702}
 
 **Release date: January 12, 2026**
