@@ -5,6 +5,12 @@ weight: 6
 description: "Native Template 14"
 ---
 
+## 14.1.17
+
+**Release date: May 4, 2026**
+
+- We updated vulnerable `okhttp`, `jackson`, and `security-crypto` dependencies.
+
 ## 14.1.15 {#1425}
 
 **Release date: Apr 22, 2026**
