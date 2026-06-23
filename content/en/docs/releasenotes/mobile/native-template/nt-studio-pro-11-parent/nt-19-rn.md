@@ -23,7 +23,7 @@ description: "Native Template 19"
 
 - We fixed the CocoaPods installation issue that was caused by object version 70.
 
-## 19.0.4 - 2026-05-04
+## 19.0.4
 
 **Release date: May 4, 2026**
 
