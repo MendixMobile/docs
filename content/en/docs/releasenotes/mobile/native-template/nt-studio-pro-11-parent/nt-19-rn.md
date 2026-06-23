@@ -11,6 +11,31 @@ description: "Native Template 19"
 
 - We fixed an issue that could cause iOS apps to restart repeatedly after an OTA update.
 
+## 19.1.0
+
+**Release date: Jun 3, 2026**
+
+- We updated the react-native to v0.84.1
+
+## 19.0.5
+
+**Release date: May 12, 2026**
+
+- We fixed the CocoaPods installation issue that was caused by object version 70.
+
+## 19.0.4 - 2026-05-04
+
+**Release date: May 4, 2026**
+
+- We updated vulnerable `okhttp`, `jackson`, and `security-crypto` dependencies.
+
+## 19.0.3
+
+**Release date: April 29, 2026**
+
+- We resolved an issue that version logs events are not getting recorded in firebase for Android
+- We fixed an issue occurring when building apps in Xcode 26.4 or newer
+
 ## 19.0.2 {#1902}
 
 **Release date: April 22, 2026**
